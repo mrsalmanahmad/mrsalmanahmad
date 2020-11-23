@@ -8,4 +8,3 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a 3D printer and i build things 😄
--->
