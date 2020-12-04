@@ -1,7 +1,7 @@
 ### Hello, I'm Salman Ahmad! 👋
 
 - 🔭 I’m currently working as Test Automation Engineer
-- 🌱 I’m currently learning Intermediate Machine Learning from Kaggle
+- 🌱 I’m currently learning Machine Learning from Kaggle
 - 👯 I’m looking to collaborate on Machine Learning
 - 🤔 I’m looking for help with building a Mobile Application 
 - 💬 Ask me about Space, Rockets, Hisotry and obvioulsy Test Automation using Python
