@@ -1,4 +1,4 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Salman Ahmad](https://mrsalmanahmad.github.io/) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -13,12 +13,12 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Salman Ahmad, a passionate Automation Engineer from Pakistan.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🔭 I’m currently working as Automation Engineer
+- 🌱 I’m currently learning Machine Learning from Kaggle
+- 👯 I’m looking to collaborate on Automation and Machine Learning Projects
+- 💬 Ask me about anything 
 
 **Languages and Tools:**  
 
