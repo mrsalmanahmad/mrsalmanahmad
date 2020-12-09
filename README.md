@@ -18,7 +18,7 @@ Hi, I'm Salman Ahmad, a passionate Automation Engineer from Pakistan.
 - 🔭 I’m currently working as Automation Engineer
 - 🌱 I’m currently learning Machine Learning from Kaggle
 - 👯 I’m looking to collaborate on Automation and Machine Learning Projects
-- 💬 Ask me about anything : salmanahmad.logicon@gmail.com 
+- 💬 Ask me about anything: salmanahmad.logicon@gmail.com 
 
 **Languages and Tools:**  
 
